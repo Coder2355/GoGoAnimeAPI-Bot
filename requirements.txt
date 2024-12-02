@@ -1,2 +1,5 @@
 telethon
+lxml[html_clean]
+# or
+lxml_html_clean
 git+https://github.com/Awesome-RJ/GoGoAnimeAPI.git
